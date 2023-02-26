@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.flex-item{
+  margin-right: 10px;
+}
+
+.fa-sort-up{
+  cursor: pointer;
+}
+
+.fa-sort-down{
+  cursor: pointer;
+}
+
+.fa-trash{
+  cursor: pointer;
+}
+
